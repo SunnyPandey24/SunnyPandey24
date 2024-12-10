@@ -9,9 +9,12 @@ Web Development: HTML, CSS, Javascript
 
 listening music..
 ##🚀 1st Year Projects
-**[Web HomePage](https://web-dev-projects-pmds-6pd2vv3sa-sunnypandey24s-projects.vercel.app/)**
+**[Web HomePage](https://web-dev-projects-pmds-6pd2vv3sa-sunnypandey24s-projects.vercel.app/)**  
+
 **[calculator.web](calculator-web-beta.vercel.app)**
+
 **[weatherfordcast](weatherfordcast.vercel.app)**
+
 ## 📘 Currently Learning..
 Advanced CSS Techniques for responsive design.
 JavaScript to add interactivity to my web projects.
