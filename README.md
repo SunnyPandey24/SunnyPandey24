@@ -11,15 +11,15 @@
 
 ## 🚀 1st Year Projects
 
-**[Web HomePage]🪐(https://web-dev-projects-pmds-6pd2vv3sa-sunnypandey24s-projects.vercel.app/)**
-A web page of our Solar system, exploring things of our galaxy,(made in html,css,js).
+**[Web HomePage](https://web-dev-projects-pmds-6pd2vv3sa-sunnypandey24s-projects.vercel.app/)**
+A web page of our Solar system 🪐, exploring things of our galaxy,(made in html,css,js).
 
-**[calculator.web]🧮(calculator-web-beta.vercel.app)**
-A simple calculator that performs all the basic arithmetic operations,(made in html,css,js).
+**[calculator.web](calculator-web-beta.vercel.app)**
+A simple calculator 🧮 that performs all the basic arithmetic operations,(made in html,css,js).
 
 
 **[weatherfordcast](weatherfordcast.vercel.app)**
-A dynamic weather app project that displays live weather updates of any city or town,(made in html,css,js).
+A dynamic weather 🌦️ app project that displays live weather updates of any city or town,(made in html,css,js).
 
 ## 📘 Currently Learning..
 >Advanced CSS Techniques for responsive design.
