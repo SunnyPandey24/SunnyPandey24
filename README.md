@@ -4,3 +4,8 @@
 - 📫 How to reach me: Through My given email ...
 - ⚡ Fun fact: A lazy person will find an easy way to do anything.(Basically I'M a lazy Man😃)
 
+  🌟 Skills & Interests
+Web Development: HTML, CSS, Javascript
+listening music..
+
+
