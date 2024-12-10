@@ -5,13 +5,13 @@
 - ⚡ Fun fact: A lazy person will find an easy way to do anything.(Basically I'M a lazy Man😃)
 
  ## 🌟 Skills & Interests
-Web Development: HTML, CSS, Javascript
+- Web Development: HTML, CSS, Javascript
 
-listening music..
+- 🎵listening music..
 
 ## 🚀 1st Year Projects
 
-**[Web HomePage](https://web-dev-projects-pmds-6pd2vv3sa-sunnypandey24s-projects.vercel.app/)**
+**[Web HomePage]🪐(https://web-dev-projects-pmds-6pd2vv3sa-sunnypandey24s-projects.vercel.app/)**
 A web page of our Solar system, exploring things of our galaxy,(made in html,css,js).
 
 **[calculator.web](calculator-web-beta.vercel.app)**
