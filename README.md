@@ -6,6 +6,7 @@
 
  ## 🌟 Skills & Interests
 - Web Development: HTML, CSS, Javascript
+- c programming
 
 - 🎵listening music..
 
