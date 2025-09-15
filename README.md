@@ -7,6 +7,9 @@
  ## 🌟 Skills & Interests
 - Web Development: HTML, CSS, Javascript
 - c programming
+- python
+- sql
+- excel
 
 - 🎵listening music..
 
@@ -23,10 +26,7 @@ A simple calculator 🧮 that performs all the basic arithmetic operations,(made
 A dynamic weather 🌦️ app project that displays live weather updates of any city or town,(made in html,css,js).
 
 ## 📘 Currently Learning..
->Advanced CSS Techniques for responsive design.
->
->JavaScript to add interactivity to my web projects.
-and more programming languages
+>python , sql, excel
 
 ## 🛠️ Currently Working On
 >Enhancing my web development skills by building real-world projects.
