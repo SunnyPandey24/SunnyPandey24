@@ -60,6 +60,7 @@ I'm a **Computer Science Engineering student** at MDU (Batch of 2028) on a focus
 
 | Project | Description | Tech |
 |---|---|---|
+| [👥supply-chain-stockout-risk-pipeline](https://github.com/SunnyPandey24/supply-chain-stockout-risk-pipeline.git) | Supply Chain & Stockout Risk Intelligence Platform | `SQL` `Python Analytics` `Excel` `Data Pipeline` `SQL Database` `Power bi` `Business KPIs` `Data Analyst`|
 | [📊 SQL Revenue Concentration Analysis](https://github.com/SunnyPandey24/sql-revenue-concentration-analysis) | Revenue concentration & delivery-risk analysis on synthetic e-commerce data using advanced SQL | `SQL` `Python` |
 | [📈 Retail Sales Excel Analysis](https://github.com/SunnyPandey24/retail-sales-excel-analysis) | End-to-end retail sales analysis with pivot tables, charts & business insights | `Excel` |
 | [👥 HR Attrition Dashboard](https://github.com/SunnyPandey24/sql-excel-hr-attrition-dashboard) | SQL-powered HR analytics case study on employee attrition patterns | `SQL` `Python` `Excel` |
